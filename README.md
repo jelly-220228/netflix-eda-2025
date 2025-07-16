@@ -27,7 +27,7 @@ We aim to uncover trends in content type, release years, genres, and more.
 
 > Netflix offers more movies than TV shows — approximately 70% are movies.
 
-![type](images/type_distribution.png)
+![Content Type Distribution](type_distribution.png)
 
 ---
 
@@ -35,7 +35,7 @@ We aim to uncover trends in content type, release years, genres, and more.
 
 > There has been a sharp rise in content additions from 2016 to 2020, likely due to global expansion.
 
-![year](images/added_by_year.png)
+![Content Type Distribution](titles_AddedperYear.png)
 
 ---
 
@@ -43,7 +43,7 @@ We aim to uncover trends in content type, release years, genres, and more.
 
 > Top genres include Dramas, International Shows, Comedies, and Documentaries.
 
-![genre](images/top_genres.png)
+![Content Type Distribution](content_type_distribution.png)
 
 ---
 
